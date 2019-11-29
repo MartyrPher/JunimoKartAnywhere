@@ -9,7 +9,7 @@ With Stardew Valley 1.4 and JKA 1.1.0 you can now,
 - Press ﻿J to play Junimo Kart!
 
 ## Config Options
-- `"StartGameKey": "SButton"` Default: `J`. SButton being any from this (list)[https://stardewvalleywiki.com/Modding:Player_Guide/Key_Bindings].
+- `"StartGameKey": "SButton"` Default: `J`. SButton being any from this [list](https://stardewvalleywiki.com/Modding:Player_Guide/Key_Bindings).
 - `"ChooseLevel": "bool"` Default: false. Set to `true` to be able to choose a specific level from progress mode.
 - `"OldVersion": "bool"` Default: false. Set to `true` to be able to play the old Junimo Kart.
 
