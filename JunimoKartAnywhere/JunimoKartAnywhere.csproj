@@ -43,6 +43,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Framework\ChooseLevel.cs" />
+    <Compile Include="Framework\ChooseProgress.cs" />
+    <Compile Include="Framework\ChooseVersion.cs" />
+    <Compile Include="Framework\IResponse.cs" />
+    <Compile Include="Framework\LevelMap.cs" />
     <Compile Include="ModConfig.cs" />
     <Compile Include="ModEntry.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
